@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-<img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/main/images/vscode.png' width='30'/> <img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/html.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/css.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/js.svg' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/main/images/vscode.png' width='30'/> <img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/html.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/css.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/js.svg' height='30'/> <img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/ae304581828fd3cbf2dfe1c202c791b8d312f678/images/sql.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/ae304581828fd3cbf2dfe1c202c791b8d312f678/images/git.svg' width='30'/>
 
 <br />
 <br />
@@ -37,15 +37,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/channel/UC471XTYg7GoLMa17hNq2lqg
 [instagram]: https://instagram.com/ola.natan
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[linkedin]: https://linkedin.com/
 
 
