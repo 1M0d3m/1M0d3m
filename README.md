@@ -1,6 +1,6 @@
 ### I'm Natan 👋
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/X5V6M2j7rV)](https://discord.gg/X5V6M2j7rV)
+[![Join our Discord server!](https://invidget.switchblade.xyz/X5V6M2j7rV?theme=light)](https://discord.gg/X5V6M2j7rV)
 
 ## I'm a Computer Science Student!
 
