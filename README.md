@@ -1,6 +1,6 @@
 ### I'm Natan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Join our Discord server!](https://invidget.switchblade.xyz/X5V6M2j7rV)](https://discord.gg/X5V6M2j7rV)
 
 ## I'm a Computer Science Student!
 
