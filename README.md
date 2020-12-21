@@ -53,7 +53,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UC471XTYg7GoLMa17hNq2lqg
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/ola.natan
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
