@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science Student!
 
-- 🔭 I'n currently working on [Youtube!][youtube]!
+- 🔭 I'n currently working on [Youtube][youtube]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
